@@ -73,7 +73,7 @@ function draw()
   log3.display();
   log4.display();
   sling.display();
-  
+  //hello
 }
 
 //mouse events: drag and release
