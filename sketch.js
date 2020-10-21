@@ -55,6 +55,7 @@ function draw()
   text(s,1000,50);
   Engine.update(engine);
   rectMode(CENTER) 
+  fill("brown");
   rect(ground.position.x,ground.position.y,1200,20)
   rect(platform.position.x,platform.position.y,300,200)
   box1.display();
